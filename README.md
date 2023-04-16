@@ -1,6 +1,6 @@
 ## Python Programming Language (Computer Algorithms)
 
-![Program Snippet](./program-snippet.PNG "Python Program")
+![Program Snippet](program-snippet.PNG "Python Program")
 
 This is a `Python program` from my subject `CS Professional Elective 2` that displays a menu to the user with different options to choose from. Depending on the user's input, the program will execute a certain function.
 
