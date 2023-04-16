@@ -1,5 +1,4 @@
-## Computer Algorithms Implemented 
-## Using Python Programming Language
+## Python Programming Language (Computer Algorithms)
 
 ![Program Snippet](./program-snippet.PNG "Python Program")
 
